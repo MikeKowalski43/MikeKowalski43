@@ -1,7 +1,3 @@
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350"/>
-
-
 <h1 align="center">Hi there I am Miquel Marín!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <h3 align="center">I'm a Data Science student currently in third year at Universitat Politècnica de València (UPV)</h3>
