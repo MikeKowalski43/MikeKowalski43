@@ -1,5 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Miquel Marín!
 
+---
+
+I want to be part of the revolution that Data Science and Artificial Intelligence are generating. I consider myself a self-demanding and methodical person in the study. I have critical reasoning and sufficient analytical ability to solve various problems. I enjoy and improve my performance working as a team (teamwork). I believe that perseverance is my best virtue. I do not abandon what I start.
+
+---
+
 <!--
 **MikeKowalski43/MikeKowalski43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
