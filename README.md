@@ -9,16 +9,17 @@
 
 ---
 
-**Connect with me:**
+<h3 align="center">Connect with me</h3>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/miquel-marin-colome/" rel="nonfollow"> 
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin logo" width="50" height="40">
 </a>
+</p>
+
 
 --- 
 <h3 align="center">Languages, Frameworks & Tools</h3>
-
-
 
 
 <p align="center">
