@@ -6,13 +6,9 @@
 
 ---
 
-- I want to be part of the revolution that Data Science and Artificial Intelligence are generating. 
-- I consider myself a self-demanding and methodical person in the study. 
-- I have critical reasoning and sufficient analytical ability to solve various problems. 
-- I enjoy and improve my performance working as a team (teamwork). 
-- I believe that perseverance is my best virtue. 
-- I do not abandon what I start.
-
+<p align="center">
+I want to be part of the revolution that Data Science and Artificial Intelligence are generating. I consider myself a self-demanding and methodical person in the study. I have critical reasoning and sufficient analytical ability to solve various problems. I enjoy and improve my performance working as a team (teamwork). I believe that perseverance is my best virtue. I do not abandon what I start.
+</p>
 
 ---
 
