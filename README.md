@@ -18,21 +18,7 @@
 --- 
 <h3 align="center">Languages, Frameworks & Tools</h3>
 
-<p align="center">
-  <code><img title="PYTHON" height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img title="CSS" height="25" src="./img/css.svg"></code>
-  <code><img title="Bootstrap" height="25" src="./img/bootstrap-5.png"></code>
-  <code><img title="SASS" height="25" src="./img/sass.svg"></code>
-  <code><img title="JavaScript" height="25" src="./img/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="./img/typescript.png"></code>
-  <code><img title="React" height="25" src="./img/react-original.svg"></code>
-  <code><img title="npm" height="25" src="./img/npm.png"></code>
-  <code><img title="NodeJS" height="25" src="./img/nodejs.png"></code>
-  <code><img title="ExpressJS" height="25" src="./img/Expressjs.png"></code>
-  <code><img title="MongoDB" height="25" src="./img/mongodb.png"></code>
-  <code><img title="Git" height="25" src="./img/git-original.svg"></code>
-  <code><img title="VSCode" height="25" src="./img/vscode.png"></code>
-</p>
+
 
 
 <p align="center">
