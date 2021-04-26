@@ -16,10 +16,28 @@
 </a>
 
 --- 
-🧰 **Languages and tools**
+<h3 align="center">Languages, Frameworks & Tools</h3>
+
+<p align="center">
+  <code><img title="PYTHON" height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img title="CSS" height="25" src="./img/css.svg"></code>
+  <code><img title="Bootstrap" height="25" src="./img/bootstrap-5.png"></code>
+  <code><img title="SASS" height="25" src="./img/sass.svg"></code>
+  <code><img title="JavaScript" height="25" src="./img/javascript.svg"></code>
+  <code><img title="TypeScript" height="25" src="./img/typescript.png"></code>
+  <code><img title="React" height="25" src="./img/react-original.svg"></code>
+  <code><img title="npm" height="25" src="./img/npm.png"></code>
+  <code><img title="NodeJS" height="25" src="./img/nodejs.png"></code>
+  <code><img title="ExpressJS" height="25" src="./img/Expressjs.png"></code>
+  <code><img title="MongoDB" height="25" src="./img/mongodb.png"></code>
+  <code><img title="Git" height="25" src="./img/git-original.svg"></code>
+  <code><img title="VSCode" height="25" src="./img/vscode.png"></code>
+</p>
 
 
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VsCode logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="Cassandra logo" width="50" height="40"><img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j logo" width="50" height="40"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau logo" width="50" height="42"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS logo" width="50" height="50">   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github logo" width="40" height="40">
+</p>
 
 ---
 
