@@ -9,7 +9,8 @@ I want to be part of the revolution that Data Science and Artificial Intelligenc
 
 **Connect with me:**
 
-<a href="https://www.linkedin.com/in/miquel-marin-colome/" rel="nonfollow"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin logo" width="50" height="40">
+<a href="https://www.linkedin.com/in/miquel-marin-colome/" rel="nonfollow"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin logo" width="50" height="40">
  
 --- 
 🧰 **Toolbox**
