@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350"/>
 
 
 <h1 align="center">Hi there I am Miquel Marín!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
@@ -9,7 +10,12 @@
 
 ---
 
-I want to be part of the revolution that Data Science and Artificial Intelligence are generating. I consider myself a self-demanding and methodical person in the study. I have critical reasoning and sufficient analytical ability to solve various problems. I enjoy and improve my performance working as a team (teamwork). I believe that perseverance is my best virtue. I do not abandon what I start.
+- I want to be part of the revolution that Data Science and Artificial Intelligence are generating. 
+- I consider myself a self-demanding and methodical person in the study. 
+- I have critical reasoning and sufficient analytical ability to solve various problems. 
+- I enjoy and improve my performance working as a team (teamwork). 
+- I believe that perseverance is my best virtue. 
+- I do not abandon what I start.
 
 
 ---
