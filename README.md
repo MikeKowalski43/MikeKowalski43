@@ -14,7 +14,8 @@ I want to be part of the revolution that Data Science and Artificial Intelligenc
 
 Technologies I have used and that I am learning:
 
-- Programming languages: <br />
+- Programming languages: 
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="28" height="28">
 
 <h3 align="center">Languages, Frameworks & Tools</h3>
