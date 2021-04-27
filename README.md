@@ -1,7 +1,6 @@
 ### Hi there I am **Miquel Marín**!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miquel-marin-colome/)](https://www.linkedin.com/in/miquel-marin-colome/) 
-
 <img src="https://komarev.com/ghpvc/?username=MikeKowalski43" alt="MikeKowalski43" />
 
 I want to be part of the revolution that Data Science and Artificial Intelligence are generating. I consider myself a self-demanding and methodical person in the study. I have critical reasoning and sufficient analytical ability to solve various problems. I enjoy and improve my performance working as a team (teamwork). I believe that perseverance is my best virtue. I do not abandon what I start.
