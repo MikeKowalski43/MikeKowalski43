@@ -32,12 +32,8 @@ Technologies I have used and that I am learning:
   
 
 - IDE & Tools:
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code logo" width="28" height="28">
 
-
-
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VsCode logo" width="28" height="28"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau logo" width="50" height="42"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS logo" width="50" height="50">   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github logo" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code logo" width="28" height="28">   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="28" height="28">  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github logo" width="28" height="28">
 </p>
 
 ---
