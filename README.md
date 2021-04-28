@@ -12,7 +12,7 @@ I want to be part of the revolution that Data Science and Artificial Intelligenc
 - 💌 Contact me at [miquelmarin43@gmail.com](mailto:miquelmarin43@gmail.com).
 
 
-Technologies I have used and that I am learning:
+**Technologies** I have used and that I am learning:
 
 - Programming languages: 
   
@@ -36,15 +36,18 @@ Technologies I have used and that I am learning:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code logo" width="28" height="28">   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="28" height="28">  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github logo" width="28" height="28">
 </p>
 
----
 
-<h3 align="center"> Best books I'm reading about Machine Learning and Deep Learning</h3>
+Best **books** I'm reading about Machine Learning and Deep Learning:
 
-<p align="center">
-<a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646" rel="nonfollow"> Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a></p>
-<p align="center"><a href="https://www.amazon.es/Deep-Learning-Ian-Goodfellow/dp/0262035618" rel="nonfollow"> Deep Learning (Adaptive Computation and Machine Learning series)</a></p>
-<p align="center"><a href="https://www.amazon.com/gp/product/1999579518/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1999579518&linkCode=as2&tag=themlbook-20&linkId=012a51085af753d857de22e9e5d6ae30" rel="nonfollow">The Hundred-Page Machine Learning Book</a></p>
-<p align="center"><a href="https://web.stanford.edu/~hastie/ElemStatLearn/" rel="nonfollow">The Elements of Statistical Learning</a></p>
+  <a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646" rel="nonfollow"> Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a></p>
+<p align="center"> 
+  
+  <a href="https://www.amazon.es/Deep-Learning-Ian-Goodfellow/dp/0262035618" rel="nonfollow"> Deep Learning (Adaptive Computation and Machine Learning series)</a></p>
+<p align="center"> 
+  
+  <a href="https://www.amazon.com/gp/product/1999579518/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1999579518&linkCode=as2&tag=themlbook-20&linkId=012a51085af753d857de22e9e5d6ae30" rel="nonfollow">The Hundred-Page Machine Learning Book</a>
+
+  <a href="https://web.stanford.edu/~hastie/ElemStatLearn/" rel="nonfollow">The Elements of Statistical Learning</a></p>
 
 
 <!--
