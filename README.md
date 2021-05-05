@@ -39,15 +39,15 @@ I want to be part of the revolution that Data Science and Artificial Intelligenc
 
 Best **books** I'm reading about Machine Learning and Deep Learning:
 
-  <a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646" rel="nonfollow"> Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a></p>
+ -  <a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646" rel="nonfollow"> Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a></p>
 <p align="center"> 
   
-  <a href="https://www.amazon.es/Deep-Learning-Ian-Goodfellow/dp/0262035618" rel="nonfollow"> Deep Learning (Adaptive Computation and Machine Learning series)</a></p>
+ -  <a href="https://www.amazon.es/Deep-Learning-Ian-Goodfellow/dp/0262035618" rel="nonfollow"> Deep Learning (Adaptive Computation and Machine Learning series)</a></p>
 <p align="center"> 
   
-  <a href="https://www.amazon.com/gp/product/1999579518/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1999579518&linkCode=as2&tag=themlbook-20&linkId=012a51085af753d857de22e9e5d6ae30" rel="nonfollow">The Hundred-Page Machine Learning Book</a>
+ - <a href="https://www.amazon.com/gp/product/1999579518/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1999579518&linkCode=as2&tag=themlbook-20&linkId=012a51085af753d857de22e9e5d6ae30" rel="nonfollow">The Hundred-Page Machine Learning Book</a>
 
-  <a href="https://web.stanford.edu/~hastie/ElemStatLearn/" rel="nonfollow">The Elements of Statistical Learning</a></p>
+ -  <a href="https://web.stanford.edu/~hastie/ElemStatLearn/" rel="nonfollow">The Elements of Statistical Learning</a></p>
 
 
 <!--
