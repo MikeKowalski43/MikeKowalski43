@@ -7,7 +7,6 @@ I want to be part of the revolution that Data Science and Artificial Intelligenc
 
 - 🔭 Currently studying Data Science at Universitat Politècnica de València (UPV).
 - 🌱 On the way of learning Deep Learning.
-- 😍 I would love to apply all my Machine Learning & Data Science knowledge to soccer analysis.
 - 🧠 Really looking forward to learn about Frontend programming languages.
 - 💌 Contact me at [miquelmarin43@gmail.com](mailto:miquelmarin43@gmail.com).
 
