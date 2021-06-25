@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miquel-marin-colome/)](https://www.linkedin.com/in/miquel-marin-colome/) 
 <img src="https://komarev.com/ghpvc/?username=MikeKowalski43" alt="MikeKowalski43" />
 
-I want to be part of the revolution that Data Science and Artificial Intelligence are generating. I consider myself a self-demanding and methodical person in the study. I have critical reasoning and sufficient analytical ability to solve various problems. I enjoy and improve my performance working as a team (teamwork). I believe that perseverance is my best virtue. I do not abandon what I start.
+I want to be part of the revolution driven by Data Science and Artificial Intelligence. I consider myself a methodical and self-demanding person. I have a critical thinking and sufficient analytical skills to solve real complex problems. I enjoy working as a team, thus improving my performance. I do believe that perseverance is my best virtue. When I start a task, I never let the job half done.
 
 - 🔭 Currently studying Data Science at Universitat Politècnica de València (UPV).
 - 🌱 On the way of learning Deep Learning.
